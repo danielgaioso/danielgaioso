@@ -1,7 +1,7 @@
 ### Oi, eu sou o Daniel Gaioso!
 
-- 🔭 Estou atualmente no Ensino Médio do Colégio Embraer Juarez Wanderley
-- 🌱 Aprendendo Python, HTML, CSS e JavaScript
+‣ Estou atualmente no Ensino Médio do Colégio Embraer Juarez Wanderley <br>
+‣ Aprendendo Python, HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/danielgaioso">
@@ -24,7 +24,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/odaniiiel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/odanielgaioso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:odanielgaioso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielgaioso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
